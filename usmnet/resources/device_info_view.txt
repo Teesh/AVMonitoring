@@ -1,0 +1,5 @@
+// This is what the VIEW in my database looks like to create a quick access table that saves on cycles for the clients
+// To create this in MySQL, just prepend "CREATE VIEW name"
+SELECT location, manufacturer, model_number, device_type,n.mac_address,details,ip_address,subnet_name,subnet,switch,port,jack,status,serial_number,ptag_number,department
+FROM physical_info p,network_info n
+WHERE timestamp = (SELECT max(n2.timestamp) FROM network_info n2 WHERE n.mac_address = n2.mac_address) AND n.mac_address = p.mac_address

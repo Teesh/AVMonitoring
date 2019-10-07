@@ -1,0 +1,3482 @@
+[
+  {
+    "loc": "Armory 101",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:D2:D9:96",
+    "": ""
+  },
+  {
+    "loc": "Bevier 89",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:19:5A:40",
+    "": ""
+  },
+  {
+    "loc": "FLB G-18",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5E:5C",
+    "": ""
+  },
+  {
+    "loc": "FLB G-20",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:61:56",
+    "": ""
+  },
+  {
+    "loc": "FLB G-24",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5F:81",
+    "": ""
+  },
+  {
+    "loc": "FLB G-30",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5F:BB",
+    "": ""
+  },
+  {
+    "loc": "FLB G-32",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5F:76",
+    "": ""
+  },
+  {
+    "loc": "FLB G-36",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5F:4A",
+    "": ""
+  },
+  {
+    "loc": "FLB G-46",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5F:A9",
+    "": ""
+  },
+  {
+    "loc": "FLB G-48",
+    "dev": "VIA Connect Pro",
+    "mac": "94:DE:80:F9:1D:29",
+    "": ""
+  },
+  {
+    "loc": "Greg 100B",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:19:59:BC",
+    "": ""
+  },
+  {
+    "loc": "Greg 112",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:6E:5F:0A",
+    "": ""
+  },
+  {
+    "loc": "Talbot 104",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:AE:19:AB",
+    "": ""
+  },
+  {
+    "loc": "Talbot 225A",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:D2:DA:0F",
+    "": ""
+  },
+  {
+    "loc": "Alumni Center 2000",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:39:6F:53",
+    "": ""
+  },
+  {
+    "loc": "Alumni Center 3000",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:39:6E:8E",
+    "": ""
+  },
+  {
+    "loc": "Alumni Center 3007",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:39:6F:49",
+    "": ""
+  },
+  {
+    "loc": "Alumni Center 3022",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:39:71:17",
+    "": ""
+  },
+  {
+    "loc": "Architecture 205",
+    "dev": "VIA Connect Pro",
+    "mac": "FC:AA:14:DA:CB:47",
+    "": ""
+  },
+  {
+    "loc": "Grainger 404",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:D7:F9:4B",
+    "": ""
+  },
+  {
+    "loc": "Grainger 408",
+    "dev": "VIA Connect Pro",
+    "mac": "40:8D:5C:D2:D9:DF",
+    "": ""
+  },
+  {
+    "loc": "Armory 432",
+    "dev": "Apple TV",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "DKH 114",
+    "dev": "Apple TV",
+    "mac": "B0:34:95:33:01:87",
+    "": ""
+  },
+  {
+    "loc": "DCL 1310",
+    "dev": "Apple TV",
+    "mac": "C8:69:CD:47:75:7F",
+    "": ""
+  },
+  {
+    "loc": "Education 2",
+    "dev": "Apple TV",
+    "mac": "1C:1A:C0:7A:1D:A2",
+    "": ""
+  },
+  {
+    "loc": "Education 166",
+    "dev": "Apple TV",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "Apple TV",
+    "mac": "28:E7:CF:EF:BD:41",
+    "": ""
+  },
+  {
+    "loc": "FLB G-18",
+    "dev": "Apple TV",
+    "mac": "18:EE:69:0B:72:80",
+    "": ""
+  },
+  {
+    "loc": "FLB G-20",
+    "dev": "Apple TV",
+    "mac": "18:EE:69:0D:B9:22",
+    "": ""
+  },
+  {
+    "loc": "FLB G-24",
+    "dev": "Apple TV",
+    "mac": "18:EE:69:1B:36:A0",
+    "": ""
+  },
+  {
+    "loc": "FLB G-30",
+    "dev": "Apple TV",
+    "mac": "18:EE:69:11:75:9A",
+    "": ""
+  },
+  {
+    "loc": "FLB G-32",
+    "dev": "Apple TV",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "FLB G-36",
+    "dev": "Apple TV",
+    "mac": "18:EE:69:14:C7:E9",
+    "": ""
+  },
+  {
+    "loc": "FLB G-46",
+    "dev": "Apple TV",
+    "mac": "18:EE:69:12:AC:32",
+    "": ""
+  },
+  {
+    "loc": "FLB G-48",
+    "dev": "Apple TV",
+    "mac": "D0:4F:7E:29:F4:3F",
+    "": ""
+  },
+  {
+    "loc": "Gregory Hall 100",
+    "dev": "Apple TV",
+    "mac": "1C:1A:C0:92:15:C8",
+    "": ""
+  },
+  {
+    "loc": "Gregory Hall 112",
+    "dev": "Apple TV",
+    "mac": "D0:4F:7E:2C:77:AD",
+    "": ""
+  },
+  {
+    "loc": "Gregory Hall 213",
+    "dev": "Apple TV",
+    "mac": "28:E7:CF:EF:33:E0",
+    "": ""
+  },
+  {
+    "loc": "MSEB 100",
+    "dev": "Apple TV",
+    "mac": "C8:69:CD:4D:50:47",
+    "": ""
+  },
+  {
+    "loc": "MSEB 119",
+    "dev": "Apple TV",
+    "mac": "C8:69:CD:44:C8:A5",
+    "": ""
+  },
+  {
+    "loc": "Noyes 100",
+    "dev": "Apple TV",
+    "mac": "D0:4F:7E:09:10:44",
+    "": ""
+  },
+  {
+    "loc": "Noyes 161",
+    "dev": "Apple TV",
+    "mac": "D0:4F:7E:1A:9F:BD",
+    "": ""
+  },
+  {
+    "loc": "Noyes 162",
+    "dev": "Apple TV",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Noyes 163",
+    "dev": "Apple TV",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Noyes 165",
+    "dev": "Apple TV",
+    "mac": "D0:4F:7E:1D:96:60",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "SMP 352",
+    "mac": "00:05:A6:12:16:B8",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1053",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:0D:66:80",
+    "": ""
+  },
+  {
+    "loc": "THB 134",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:11:FA:C1",
+    "": ""
+  },
+  {
+    "loc": "Greg 112",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:12:16:AC",
+    "": ""
+  },
+  {
+    "loc": "ASL 150",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:12:16:CC",
+    "": ""
+  },
+  {
+    "loc": "Mumford 103",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:12:16:A3",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B1",
+    "dev": "SMP 351",
+    "mac": "00-05-A6-11-FA-A1",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1002",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:12:16:9D",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:95",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:61",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:80:04:F1",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:73",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:7F",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:60",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:86",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:79",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:A1",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:9D",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:74",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:52",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Enc",
+    "mac": "00:19:0B:00:57:5C",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:B2",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:50",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:51",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:A4",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:9E",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:99",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:8D",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:73",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:81",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:00:6B:7E",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI 1000 Dec",
+    "mac": "00:19:0B:80:10:1F",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "SVSI Audio Dec",
+    "mac": "00:19:0B:00:32:D6",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:4C:BD",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:01:D0",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:14:91",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:01:CC",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:4C:BB",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:64:E7",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:17:CD",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:57:09",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:64:76",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:57:51",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:17:C7",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 245",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-53-14",
+    "": ""
+  },
+  {
+    "loc": "Armory 133",
+    "dev": "Extron Medialink IP 104",
+    "mac": "00-05-A6-00-5A-5C",
+    "": ""
+  },
+  {
+    "loc": "Armory 134",
+    "dev": "Extron Medialink IP 104",
+    "mac": "00-05-A6-00-5A-4C",
+    "": ""
+  },
+  {
+    "loc": "Armory 136",
+    "dev": "Extron Medialink IP 104",
+    "mac": "00-05-A6-00-5A-5A",
+    "": ""
+  },
+  {
+    "loc": "Armory 137",
+    "dev": "Extron Medialink IP 104",
+    "mac": "00-05-A6-00-5A-69",
+    "": ""
+  },
+  {
+    "loc": "Armory 328",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D6-E6",
+    "": ""
+  },
+  {
+    "loc": "Armory 329",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-00-CC",
+    "": ""
+  },
+  {
+    "loc": "Bevier 103",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:07:4d:cd",
+    "": ""
+  },
+  {
+    "loc": "Bevier 108",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4E-8F",
+    "": ""
+  },
+  {
+    "loc": "Bevier 132",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5D-5C",
+    "": ""
+  },
+  {
+    "loc": "Bevier 166\\168",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-B7",
+    "": ""
+  },
+  {
+    "loc": "Bevier 242",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:0f:a3:5e",
+    "": ""
+  },
+  {
+    "loc": "Bevier 393",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E2-C0",
+    "": ""
+  },
+  {
+    "loc": "Burrill 136",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00-05-A6-0F-E4-10",
+    "": ""
+  },
+  {
+    "loc": "Burrill 140",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-6E-74",
+    "": ""
+  },
+  {
+    "loc": "DKH 106",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-9F-9A",
+    "": ""
+  },
+  {
+    "loc": "DKH 108",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-74-78",
+    "": ""
+  },
+  {
+    "loc": "DKH 111",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-76-B7",
+    "": ""
+  },
+  {
+    "loc": "DKH 113",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-74-53",
+    "": ""
+  },
+  {
+    "loc": "DKH 115",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-76-D6",
+    "": ""
+  },
+  {
+    "loc": "DKH 125",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-9D-72",
+    "": ""
+  },
+  {
+    "loc": "DKH 206",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-DD-A5",
+    "": ""
+  },
+  {
+    "loc": "DKH 209",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-76-B5",
+    "": ""
+  },
+  {
+    "loc": "DKH 212",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-74-1F",
+    "": ""
+  },
+  {
+    "loc": "DKH 215",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-90",
+    "": ""
+  },
+  {
+    "loc": "DKH 215B",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-62-CC",
+    "": ""
+  },
+  {
+    "loc": "DKH 219",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-53-25",
+    "": ""
+  },
+  {
+    "loc": "DKH 222",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-9D-6F",
+    "": ""
+  },
+  {
+    "loc": "DKH 223",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-76-E9",
+    "": ""
+  },
+  {
+    "loc": "DKH 307",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-5F",
+    "": ""
+  },
+  {
+    "loc": "DKH 310",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D3-45",
+    "": ""
+  },
+  {
+    "loc": "DKH 312",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-6E",
+    "": ""
+  },
+  {
+    "loc": "DKH 317",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-01-28-29",
+    "": ""
+  },
+  {
+    "loc": "DKH 322",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-3C",
+    "": ""
+  },
+  {
+    "loc": "DKH 325",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-CE-2C",
+    "": ""
+  },
+  {
+    "loc": "DKH 326",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-C9",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 113",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-02",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 132",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-4F-33",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 136",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E4-2A",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 169",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-4F-36",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 211",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-55-B8",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 212",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-7E",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 214",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-77",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 215",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-B1",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 312",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-52-92",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 313",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-53-04",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 336",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-52-E1",
+    "": ""
+  },
+  {
+    "loc": "Education 37",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-26",
+    "": ""
+  },
+  {
+    "loc": "Education 323",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-75-3D",
+    "": ""
+  },
+  {
+    "loc": "Education 385",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-58-EC",
+    "": ""
+  },
+  {
+    "loc": "Education 389",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-AB-86",
+    "": ""
+  },
+  {
+    "loc": "English 36",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-E9-8A",
+    "": ""
+  },
+  {
+    "loc": "English 104",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-01-70-AC",
+    "": ""
+  },
+  {
+    "loc": "English 108",
+    "dev": "Extron Medialink IP 104-",
+    "mac": "00:05:A6:06:D4:D0",
+    "": ""
+  },
+  {
+    "loc": "English 259",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-06-D4-32",
+    "": ""
+  },
+  {
+    "loc": "FLB 1018",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-31-94",
+    "": ""
+  },
+  {
+    "loc": "FLB 1022",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-31-80",
+    "": ""
+  },
+  {
+    "loc": "FLB 1024",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-27-66",
+    "": ""
+  },
+  {
+    "loc": "FLB 1030",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-37-8D",
+    "": ""
+  },
+  {
+    "loc": "FLB 1032",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-1D-D8",
+    "": ""
+  },
+  {
+    "loc": "FLB 1038",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-29-D8",
+    "": ""
+  },
+  {
+    "loc": "FLB 1040",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-2F-DF",
+    "": ""
+  },
+  {
+    "loc": "FLB 1046",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-31-56",
+    "": ""
+  },
+  {
+    "loc": "FLB 1048",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-27-9A",
+    "": ""
+  },
+  {
+    "loc": "FLB 1110",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-37-9C",
+    "": ""
+  },
+  {
+    "loc": "FLB 1112",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-1D-6B",
+    "": ""
+  },
+  {
+    "loc": "FLB 1118",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-2E-F3",
+    "": ""
+  },
+  {
+    "loc": "FLB 1120",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-2E-D5",
+    "": ""
+  },
+  {
+    "loc": "FLB 1126",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-31-4E",
+    "": ""
+  },
+  {
+    "loc": "FLB 1128",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-29-B6",
+    "": ""
+  },
+  {
+    "loc": "FLB 1134",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-27-E8",
+    "": ""
+  },
+  {
+    "loc": "FLB 1136",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-2E-EC",
+    "": ""
+  },
+  {
+    "loc": "FLB 1140",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-05-2E-41",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 113",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-9E-02",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 207",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-CF-D8",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 219",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-9C-2A",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 221",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-7C-8C",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 223",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D3-42",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 313",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-D9-4E",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 315",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-9E-4D",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 317",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-08-A3",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 319",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D2-D1",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 321",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-90-CC",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 325",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-42-83",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 327",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-52-1B",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 329",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-90-9D",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 331",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-06-17",
+    "": ""
+  },
+  {
+    "loc": "HAB 124",
+    "dev": "",
+    "mac": "00-05-A6-0F-E3-4B",
+    "": ""
+  },
+  {
+    "loc": "HAB 140",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00-05-A6-0F-E4-8E",
+    "": ""
+  },
+  {
+    "loc": "HAB 156",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-99-B8",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1000",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4F-5C",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1002",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5D-6F",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1020",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-CE-8B",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1022",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4D-CA",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1024",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4E-47",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1026",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4D-D7",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1027",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4E-1D",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1028",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-8A-99",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1051",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-DD-AE",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1057",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-50-20",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1060",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4E-37",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1062",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-DD-D5",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1064",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-4E-45",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1065",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D3-CF",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1066",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4F-3A",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1068",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4D-D6",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1090",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4F-5F",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1092",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D6-25",
+    "": ""
+  },
+  {
+    "loc": "Loomis 136",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-79-93",
+    "": ""
+  },
+  {
+    "loc": "Loomis 137",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-78-06",
+    "": ""
+  },
+  {
+    "loc": "Loomis 139",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-83-0C",
+    "": ""
+  },
+  {
+    "loc": "Loomis 143",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-83-33",
+    "": ""
+  },
+  {
+    "loc": "Loomis 144",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D3-13",
+    "": ""
+  },
+  {
+    "loc": "Loomis 147",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-7F-72",
+    "": ""
+  },
+  {
+    "loc": "Loomis 158",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-83-11",
+    "": ""
+  },
+  {
+    "loc": "Mumford Hall 320",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00-05-A6-0F-E2-D1",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 162",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-E6",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 164",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00-05-A6-0F-E3-26",
+    "": ""
+  },
+  {
+    "loc": "Psych 29",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-8A-7C",
+    "": ""
+  },
+  {
+    "loc": "Psych 31",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-E4",
+    "": ""
+  },
+  {
+    "loc": "Talbot 104",
+    "dev": "Extron Medialink IP 104",
+    "mac": "00-05-A6-0F-62-44",
+    "": ""
+  },
+  {
+    "loc": "Turner Hall W115",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:60:9f:91:A5:B6",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 120",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00-05-A6-0F-E3-4B",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 130",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-CF",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 166",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5D-52",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 174",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00-05-A6-0F-E3-30",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 226",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-BE",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 245",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-0A-83-77",
+    "": ""
+  },
+  {
+    "loc": "Uni High 109",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-48-D9",
+    "": ""
+  },
+  {
+    "loc": "Uni High 206",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-B9",
+    "": ""
+  },
+  {
+    "loc": "Uni High 210",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-93",
+    "": ""
+  },
+  {
+    "loc": "Uni High 218",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-C3",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 314",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D7-91",
+    "": ""
+  },
+  {
+    "loc": "Architecture 120",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-D0-18",
+    "": "Host"
+  },
+  {
+    "loc": "Armory 429",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-57-63",
+    "": ""
+  },
+  {
+    "loc": "Armory 430",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-47-9B",
+    "": ""
+  },
+  {
+    "loc": "Bevier Hall 242",
+    "dev": "Extron Controller",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Ceramics 218",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-73-17",
+    "": ""
+  },
+  {
+    "loc": "Chem Annex 112",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-E4",
+    "": ""
+  },
+  {
+    "loc": "Davenport Hall 329",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-00-1A",
+    "": "Host"
+  },
+  {
+    "loc": "DKH 114",
+    "dev": "Extron IPCP 505",
+    "mac": "00-05-A6-07-E2-BA",
+    "": ""
+  },
+  {
+    "loc": "DKH 114",
+    "dev": "Extron TLP 700MV",
+    "mac": "00-05-A6-08-53-EF",
+    "": ""
+  },
+  {
+    "loc": "Education 33",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-7E-A9",
+    "": ""
+  },
+  {
+    "loc": "Education 162",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5B-67",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B1",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-56-8B",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B2",
+    "dev": "Extron IN1606",
+    "mac": "00-05-A6-11-06-7E",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B3",
+    "dev": "Extron DMP-64",
+    "mac": "00-05-A6-11-FB-DA",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B3",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-C0",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B6",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-9A-10",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B8",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5D-4C",
+    "": ""
+  },
+  {
+    "loc": "Everitt Lab 165",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-0C-F3",
+    "": ""
+  },
+  {
+    "loc": "Everitt Lab 241",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4E-3F",
+    "": ""
+  },
+  {
+    "loc": "Everitt Lab 245",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-32",
+    "": ""
+  },
+  {
+    "loc": "Everitt Lab 260",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-84",
+    "": ""
+  },
+  {
+    "loc": "Everitt Lab 269",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D6-E6",
+    "": ""
+  },
+  {
+    "loc": "Freer Hall 130",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-60-97",
+    "": ""
+  },
+  {
+    "loc": "Greg 213",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-E0-90",
+    "": "Host"
+  },
+  {
+    "loc": "HAB 138",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D3-DE",
+    "": ""
+  },
+  {
+    "loc": "Library 66",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-F8",
+    "": ""
+  },
+  {
+    "loc": "MSEB 305",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-6D",
+    "": ""
+  },
+  {
+    "loc": "MEB 153",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-6F",
+    "": ""
+  },
+  {
+    "loc": "MEB 218",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E4-22",
+    "": ""
+  },
+  {
+    "loc": "MEB 253",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-DF-CA",
+    "": ""
+  },
+  {
+    "loc": "Mumford Hall 103",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-9D-D5",
+    "": ""
+  },
+  {
+    "loc": "Mumford Hall 313",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-49-79",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 161",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-D4-F8",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 217",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-A1-A2",
+    "": ""
+  },
+  {
+    "loc": "Psych 23",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-8A-71",
+    "": ""
+  },
+  {
+    "loc": "RAL 116",
+    "dev": "Extron ICP505 Host",
+    "mac": "00-05-A6-07-73-64",
+    "": ""
+  },
+  {
+    "loc": "RAL 116",
+    "dev": "Extron TLP1000TV",
+    "mac": "00-05-A6-07-84-54",
+    "": ""
+  },
+  {
+    "loc": "RAL 116",
+    "dev": "Extron DMP64",
+    "mac": "00-05-A6-0B-2A-F4",
+    "": ""
+  },
+  {
+    "loc": "Speech and Hearing 110",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-CE-69",
+    "": ""
+  },
+  {
+    "loc": "Speech and Hearing 112",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-60-92",
+    "": ""
+  },
+  {
+    "loc": "Talbot Hall 103",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-DA-56",
+    "": ""
+  },
+  {
+    "loc": "Turner Hall W109",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-CE-4C",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 141",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-11-F4",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 143",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-AD-72",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 145",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A5-F0",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 147",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A6-C0",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 241",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-FD-5C",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 243",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A6-87",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 341",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A7-56",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 343",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-06-1C",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 345",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A6-DA",
+    "": ""
+  },
+  {
+    "loc": "Altgeld Hall 347",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A8-E1",
+    "": ""
+  },
+  {
+    "loc": "Armory 143",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-5B-28",
+    "": ""
+  },
+  {
+    "loc": "Armory 144",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-53-D2",
+    "": ""
+  },
+  {
+    "loc": "Armory 145",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-D8",
+    "": ""
+  },
+  {
+    "loc": "Armory 146",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-54-64",
+    "": ""
+  },
+  {
+    "loc": "Armory 241",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-5B-39",
+    "": ""
+  },
+  {
+    "loc": "Armory 242",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-4D-13",
+    "": ""
+  },
+  {
+    "loc": "Armory 243",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-06-51-34",
+    "": ""
+  },
+  {
+    "loc": "Armory 255",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-4D-30",
+    "": ""
+  },
+  {
+    "loc": "Armory 370",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-9A-09",
+    "": ""
+  },
+  {
+    "loc": "Armory 384",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-00-B7-38",
+    "": ""
+  },
+  {
+    "loc": "Armory 386",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-05-E5-74",
+    "": ""
+  },
+  {
+    "loc": "ASL 150",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-03-20-67",
+    "": ""
+  },
+  {
+    "loc": "DKH 119",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:09:5b:4f",
+    "": ""
+  },
+  {
+    "loc": "DKH 123",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-5B-44",
+    "": ""
+  },
+  {
+    "loc": "English 44",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-0F-E2-E0",
+    "": ""
+  },
+  {
+    "loc": "English 113",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-17-A4",
+    "": ""
+  },
+  {
+    "loc": "English 115",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-28-F5",
+    "": ""
+  },
+  {
+    "loc": "English 119",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-2B-2F",
+    "": ""
+  },
+  {
+    "loc": "English 123",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-79-C3",
+    "": ""
+  },
+  {
+    "loc": "English 125",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-09-19-8A",
+    "": ""
+  },
+  {
+    "loc": "English 127",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A8-CC",
+    "": ""
+  },
+  {
+    "loc": "English 131",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-AA-C7",
+    "": ""
+  },
+  {
+    "loc": "English 135",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A7-3F",
+    "": ""
+  },
+  {
+    "loc": "English 156",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-0F-E3-31",
+    "": ""
+  },
+  {
+    "loc": "English 309",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00-05-A6-0F-E2-6F",
+    "": ""
+  },
+  {
+    "loc": "Greg 111",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A6-D6",
+    "": ""
+  },
+  {
+    "loc": "Greg 205",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A7-4F",
+    "": ""
+  },
+  {
+    "loc": "Greg 215",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-FD-65",
+    "": ""
+  },
+  {
+    "loc": "Greg 217",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-07-ED",
+    "": ""
+  },
+  {
+    "loc": "Greg 307",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-17-A5",
+    "": ""
+  },
+  {
+    "loc": "Greg 311",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-70-0B",
+    "": ""
+  },
+  {
+    "loc": "HAB 137",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-a9-51",
+    "": ""
+  },
+  {
+    "loc": "HAB 143",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A9-08",
+    "": ""
+  },
+  {
+    "loc": "HAB 149",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-4F-5A",
+    "": ""
+  },
+  {
+    "loc": "Transportation 101",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-AF-2F",
+    "": ""
+  },
+  {
+    "loc": "Transportation 103",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A5-D8",
+    "": ""
+  },
+  {
+    "loc": "Transportation 112",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-07-4E-3F",
+    "": ""
+  },
+  {
+    "loc": "Transportation 114",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-69-2F",
+    "": ""
+  },
+  {
+    "loc": "Turner N107 N107",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-08-A6-15",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 126",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-D3",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 138",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5D-17",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 170",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-5C-96",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 236",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00-05-A6-04-4B-10",
+    "": ""
+  },
+  {
+    "loc": "Armory 101",
+    "dev": "AMX NI 4000",
+    "mac": "00:60:9F:90:9D:07",
+    "": "Master"
+  },
+  {
+    "loc": "Armory 101",
+    "dev": "Extron Xpoint",
+    "mac": "00:60:9F:95:A7:6D",
+    "": "Slave"
+  },
+  {
+    "loc": "Armory 101",
+    "dev": "AMX MXD-1000i",
+    "mac": "",
+    "": "Touch Panel Lectern"
+  },
+  {
+    "loc": "Armory 101",
+    "dev": "AMX Touch Panel Booth",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Armory 147",
+    "dev": "AMX NI 4000",
+    "mac": "00:60:9F:91:51:E9",
+    "": ""
+  },
+  {
+    "loc": "Armory 148",
+    "dev": "AMX NI 4000",
+    "mac": "00:60:9F:91:51:E8",
+    "": ""
+  },
+  {
+    "loc": "Bevier 180",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9F:95:00:72",
+    "": ""
+  },
+  {
+    "loc": "Bevier 180",
+    "dev": "AMX NXD-700vi",
+    "mac": "00:60:9F:95:05:EE",
+    "": ""
+  },
+  {
+    "loc": "Burrill 124",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9F:96:27:36",
+    "": ""
+  },
+  {
+    "loc": "Burrill 124",
+    "dev": "",
+    "mac": "00:60:9f:9b:24:68",
+    "": ""
+  },
+  {
+    "loc": "DCL 1310",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9F:96:BC:8F",
+    "": ""
+  },
+  {
+    "loc": "DCL 1310",
+    "dev": "AMX NXD-700i",
+    "mac": "00:60:9F:96:CA:6F",
+    "": ""
+  },
+  {
+    "loc": "DCL 1320",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9F:95:74:52",
+    "": ""
+  },
+  {
+    "loc": "DCL 1320",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:95:95:D1:14",
+    "": ""
+  },
+  {
+    "loc": "Education 2",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9F:95:00:b0",
+    "": ""
+  },
+  {
+    "loc": "Education 2",
+    "dev": "AMX NXD-700Vi",
+    "mac": "00:60:9F:",
+    "": ""
+  },
+  {
+    "loc": "English 160",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:97:97:ea",
+    "": ""
+  },
+  {
+    "loc": "English 160",
+    "dev": "AMX MXD-10001",
+    "mac": "00:60:9f:98:d7:bc",
+    "": ""
+  },
+  {
+    "loc": "Everitt Lab 151",
+    "dev": "AMX NI 3100",
+    "mac": "00-60-9F-96-af-66",
+    "": "00-60-9F-95-00-47"
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "AMX NI-700",
+    "mac": "00-60-9F-9A-66-DF",
+    "": "booth"
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "AMX NI-700",
+    "mac": "00-60-9F-9A-66-3C",
+    "": "lectern"
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "AMX MXD-700-l-NC",
+    "mac": "00-60-9F-98-92-CF",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "AMX MXD-1000-l-NC",
+    "mac": "00-60-9F-98-B5-EA",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "AMX NXT-1200VG RGB",
+    "mac": "00-60-9F-96-B9-4F",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "AMX NXV-300",
+    "mac": "00-60-9F-9A-58-22",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "Biamp Tesira DSP",
+    "mac": "00-90-5E-15-2C-7C",
+    "": "DSP A 02322790 in stage rack"
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "Biamp Tesira DSP",
+    "mac": "00-90-5E-15-2C-6B",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "Biamp Tesira DSP",
+    "mac": "00-90-5E-15-2C-14",
+    "": ""
+  },
+  {
+    "loc": "Foellinger Aud",
+    "dev": "CONTROL PC",
+    "mac": "B8-AC-6F-0C-C5-63",
+    "": "CONTROL PC for Biamp Canvas, Tesira, NXV-300"
+  },
+  {
+    "loc": "Greg Hall 100",
+    "dev": "AMX NI-4100",
+    "mac": "00:60:9F:9C:08:EB",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 100",
+    "dev": "AMX MXT-1000i",
+    "mac": "00:60:9F:9B:DC:66",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 112",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9f:96:0f:66",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 112",
+    "dev": "AMX MSD01001i",
+    "mac": "00:60:9f:",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 112",
+    "dev": "AMX MST-1001i",
+    "mac": "00:60:9f:",
+    "": ""
+  },
+  {
+    "loc": "Greg Hall 112",
+    "dev": "AMX EXB-COM2",
+    "mac": "00:60:9f:9c:d7:f9",
+    "": ""
+  },
+  {
+    "loc": "Huff Hall 112",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9f:96:0f:65",
+    "": ""
+  },
+  {
+    "loc": "KAM 62",
+    "dev": "AMX NI 3100",
+    "mac": "00:60:9f:95:00:9A",
+    "": ""
+  },
+  {
+    "loc": "KAM 62",
+    "dev": "AMX NX-CV7",
+    "mac": "00:60:9f:94:d7:d5",
+    "": ""
+  },
+  {
+    "loc": "Law Aud",
+    "dev": "AMX NI-700/Axcent 3",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1053",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9f:96:cb:eb",
+    "": ""
+  },
+  {
+    "loc": "MSEB 100",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9F:96:27:39",
+    "": ""
+  },
+  {
+    "loc": "MSEB 100",
+    "dev": "AMX NXD700i",
+    "mac": "00:60:9F:95:F7:69",
+    "": ""
+  },
+  {
+    "loc": "MSEB 119",
+    "dev": "AMX NI 3100",
+    "mac": "00:60:9f:97:97:e8",
+    "": ""
+  },
+  {
+    "loc": "MSEB 119",
+    "dev": "AMX MXD-700i",
+    "mac": "00:60:9f:9a:e8:96",
+    "": ""
+  },
+  {
+    "loc": "MEB 135",
+    "dev": "AMX NI-700/Axcent 3",
+    "mac": "00:60:9f:92:4b:e8",
+    "": ""
+  },
+  {
+    "loc": "MEB 243",
+    "dev": "AMX NI-700/Axcent 3",
+    "mac": "00:60:9f:91:7d:c8",
+    "": ""
+  },
+  {
+    "loc": "MEB 335",
+    "dev": "AMX NI-700/Axcent 3",
+    "mac": "00:60:9f:96:27:2f",
+    "": ""
+  },
+  {
+    "loc": "NHB 228",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9f:95:66:f9",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 100",
+    "dev": "AMX DVX-3155HD",
+    "mac": "00-60-9f-99-f0-94",
+    "": "AMX AXCENT3 PRO"
+  },
+  {
+    "loc": "Noyes Lab 100",
+    "dev": "AMX MXD-1000-NC",
+    "mac": "00-60-9f-98-b5-ea",
+    "": ""
+  },
+  {
+    "loc": "THB 134",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9f:93:d8:9e",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 141",
+    "dev": "AMX NI 4100",
+    "mac": "00:60:9f:93:d8:9f",
+    "": ""
+  },
+  {
+    "loc": "THB 134",
+    "dev": "AMX NXD-700 Vi",
+    "mac": "00:60:9f:93:bd:b3",
+    "": ""
+  },
+  {
+    "loc": "Wohlers 141",
+    "dev": "AMX NXD-700 Vi",
+    "mac": "00:60:9f:93:11:97",
+    "": ""
+  },
+  {
+    "loc": "Architecture 301",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:92:d4:12",
+    "": ""
+  },
+  {
+    "loc": "Architecture 301",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:96:15:a5",
+    "": "Slave"
+  },
+  {
+    "loc": "Architecture 302",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:91:7D:A4",
+    "": ""
+  },
+  {
+    "loc": "Armory 331",
+    "dev": "AMX NI 700",
+    "mac": "00:60:9F:91:7e:5b",
+    "": ""
+  },
+  {
+    "loc": "Armory 333",
+    "dev": "AMX NI 700",
+    "mac": "00:60:9F:91:8F:98",
+    "": ""
+  },
+  {
+    "loc": "Armory 432",
+    "dev": "AMX NX-3200",
+    "mac": "00:60:9f:9d:b1:cb",
+    "": ""
+  },
+  {
+    "loc": "Bevier Hall 328",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:92:e1:b9",
+    "": ""
+  },
+  {
+    "loc": "Education 166",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:96:27:30",
+    "": ""
+  },
+  {
+    "loc": "HAB 142",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9f:96:64:6f",
+    "": ""
+  },
+  {
+    "loc": "HAB 142",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:06:d4:70",
+    "": ""
+  },
+  {
+    "loc": "HAB 148",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9f:95:83:f7",
+    "": ""
+  },
+  {
+    "loc": "HAB 148",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:05:d2:be",
+    "": ""
+  },
+  {
+    "loc": "HAB 152",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9f:95:84:1d",
+    "": ""
+  },
+  {
+    "loc": "HAB 152",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:05:da:05",
+    "": ""
+  },
+  {
+    "loc": "HAB 154",
+    "dev": "AMX NI-3100",
+    "mac": "00:60:9f:95:84:69",
+    "": ""
+  },
+  {
+    "loc": "HAB 154",
+    "dev": "Extron Medialink IP 226",
+    "mac": "00:05:a6:05:da:53",
+    "": ""
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX DVX3155HD",
+    "mac": "00:60:9f:9b:16:ed",
+    "": ""
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX Touch Panel",
+    "mac": "00:60:9f:9b:2c:87",
+    "": ""
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AVB-RX",
+    "mac": "00:60:9f:9a:c2:95",
+    "": "Proj Vid RX"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AVB-TX",
+    "mac": "00:60:9f:9a:be:8e",
+    "": "Laptop Doc cam"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9F:91:7D:5C",
+    "": "station #1"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:91:7d:a4",
+    "": "station #2"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:96:16:36",
+    "": "station #3"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:92:4b:e5",
+    "": "station #4"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:91:7d:bc",
+    "": "station #5"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:96:16:10",
+    "": "station #6"
+  },
+  {
+    "loc": "Huff Hall 209",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:91:7d:5c",
+    "": "station #7"
+  },
+  {
+    "loc": "MEB 260",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9F:91:96:69",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 163",
+    "dev": "Extron MLC 226",
+    "mac": "00:05:A6:07:A9:A5",
+    "": ""
+  },
+  {
+    "loc": "Noyes Lab 165",
+    "dev": "Extron MLC 226",
+    "mac": "00:05:A6:07:5D:41",
+    "": ""
+  },
+  {
+    "loc": "NSRL 149",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:97:97:d0",
+    "": ""
+  },
+  {
+    "loc": "NSRL 149",
+    "dev": "AMX NXD-CV5",
+    "mac": "00:60:9f:92:ff:8d",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1103",
+    "dev": "AMX",
+    "mac": "00:60:9f:90:9c:e1",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1105",
+    "dev": "AMX",
+    "mac": "00:60:9f:90:9c:f5",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1109",
+    "dev": "AMX",
+    "mac": "00:60:9f:90:9c:dc",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1109",
+    "dev": "Extron DMP-64",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1111",
+    "dev": "AMX",
+    "mac": "00:60:9f:90:9c:df",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1131",
+    "dev": "AMX",
+    "mac": "00:60:9f:90:9c:fc",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1214",
+    "dev": "AMX",
+    "mac": "00:60:9f:95:74:58",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1214",
+    "dev": "AMX MXT-700i",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1214",
+    "dev": "Extron DMP-64",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1302",
+    "dev": "AMX NI-4000",
+    "mac": "00:60:9f:90:9c:f3",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1302",
+    "dev": "AMX MXT-700i",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1302",
+    "dev": "Extron DMP-64",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1304",
+    "dev": "AMX NI-4000",
+    "mac": "00:60:9f:95:00:47",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1304",
+    "dev": "AMX MXT-700i",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1304",
+    "dev": "Extron DMP-64",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "AMX NX-4200",
+    "mac": "00:60:9f:a1:54:e1",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "AMX MST-1001i",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Transportation 203",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:91:a5:bf",
+    "": ""
+  },
+  {
+    "loc": "Transportation 204",
+    "dev": "AMX NI-700",
+    "mac": "00:60:9f:91:a5:bf",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "BSS Blu-10",
+    "mac": "00:0F:D4:09:5C:55",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "AMX MSD-701-L2",
+    "mac": "00:60:9F:A3:7C:F0",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "AMX MST-701",
+    "mac": "00:60:9F:A3:7C:7F",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:1A",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:1E",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:27",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:80:10:97",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:C7",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:C9",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:CC",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "AMX NX-2200",
+    "mac": "00:60:9F:A3:88:96",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "VIA Connect Pro",
+    "mac": "1C:1B:0D:F7:A2:1F",
+    "": ""
+  },
+  {
+    "loc": "Psych 21",
+    "dev": "Extron MLC 104 IP PLUS",
+    "mac": "00:05:A6:12:0F:19",
+    "": ""
+  },
+  {
+    "loc": "Psych 21",
+    "dev": "VIA Connect Pro",
+    "mac": "1C:1B:0D:F6:D2:A8",
+    "": ""
+  },
+  {
+    "loc": "Psych 21",
+    "dev": "BSS Blu-10",
+    "mac": "00:0F:D4:09:5C:21",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:32",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:8C",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:96",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:A6",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:A8",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:B3",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:B4",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:C3",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:C4",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:5E:C5",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:01:79",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6E:FF",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:00",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:02",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:0B",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:0E",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:0F",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:10",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:11",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:14",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:6F:19",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:80:10:94",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "AMX NX-2200",
+    "mac": "00:60:9F:A3:88:A4",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "VIA Connect Pro",
+    "mac": "1C:1B:0D:F7:A3:46",
+    "": ""
+  },
+  {
+    "loc": "DCL 1320",
+    "dev": "Apple TV",
+    "mac": "50:32:37:8e:4e:dd",
+    "": ""
+  },
+  {
+    "loc": "ASL 131",
+    "dev": "Apple TV",
+    "mac": "50:32:37:98:d1:ca",
+    "": ""
+  },
+  {
+    "loc": "Armory 136",
+    "dev": "Apple TV",
+    "mac": "50:32:37:91:57:64",
+    "": ""
+  },
+  {
+    "loc": "Lincoln Hall 1053",
+    "dev": "Apple TV",
+    "mac": "50:32:37:91:56:8f",
+    "": ""
+  },
+  {
+    "loc": "Bevier 89",
+    "dev": "Apple TV",
+    "mac": "1C:1A:C0:9C:28:C2",
+    "": ""
+  },
+  {
+    "loc": "Chem Annex 1024",
+    "dev": "AMX NX-4200",
+    "mac": "00:60:9F:9F:45:95",
+    "": ""
+  },
+  {
+    "loc": "Chem Annex 1024",
+    "dev": "AMX G5 Touch Panel",
+    "mac": "00:60:9F:9E:8F:54",
+    "": ""
+  },
+  {
+    "loc": "Chem Annex 1024",
+    "dev": "Extron XTP Crosspoint 1600",
+    "mac": "00:05:A6:0C:DE:E7",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:40",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:35",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:32",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:62",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:55",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:5B",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:3E",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6A:F1",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:45",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6A:EB",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:53",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6A:E5",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:3D",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:31",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:3B",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:33",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:49",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:30",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:37",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:34",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:2B",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:57:73",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:34",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:32:EA",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:2E",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:2F:44",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:5F",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:41",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:5C",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 4321 ATC",
+    "mac": "00:19:0B:80:27:8D",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "SVSI 4321 ATC",
+    "mac": "00:19:0B:00:7B:02",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "Crestron Touch Panel",
+    "mac": "00:10:7F:93:A1:1C",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "Crestron Controller",
+    "mac": "00:10:7F:93:09:1B",
+    "": ""
+  },
+  {
+    "loc": "Vet Med 1261",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:7D:12",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:80:49:44",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:61",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:5D",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Dec",
+    "mac": "00:19:0B:89:6B:60",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:38",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:35",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:4C",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:4F",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:59",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:2F",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "SVSI 2000 Enc",
+    "mac": "00:19:0B:89:0D:30",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "Crestron Controller",
+    "mac": "00:10:7F:92:C7:AC",
+    "": ""
+  },
+  {
+    "loc": "Vet Med LAC 217",
+    "dev": "Crestron Touch Panel",
+    "mac": "00:10:7F:93:9F:98",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-F",
+    "mac": "00:19:0B:8B:5D:72",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-L",
+    "mac": "00:19:0B:8B:5D:6D",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-A",
+    "mac": "00:19:0B:8B:5C:9A",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-B",
+    "mac": "00:19:0B:8B:5D:75",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-C",
+    "mac": "00:19:0B:8B:5C:92",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-D",
+    "mac": "00:19:0B:8B:5C:99",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-E",
+    "mac": "00:19:0B:8B:5C:98",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-G",
+    "mac": "00:19:0B:8B:5C:AF",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-H",
+    "mac": "00:19:0B:8B:5D:64",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-I",
+    "mac": "00:19:0B:8B:5C:8E",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-J",
+    "mac": "00:19:0B:8B:5C:9B",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-K",
+    "mac": "00:19:0B:8B:5C:A4",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Enc-M",
+    "mac": "00:19:0B:8B:5D:2D",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Enc-N",
+    "mac": "00:19:0B:8B:5D:70",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Dec-A",
+    "mac": "00:19:0B:89:2F:42",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Dec-B",
+    "mac": "00:19:0B:89:2F:41",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Dec-I",
+    "mac": "00:19:0B:89:73:2B",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Dec-J",
+    "mac": "00:19:0B:89:7A:10",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "SVSI 2000 Dec-K",
+    "mac": "00:19:0B:89:72:E8",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Dec-L",
+    "mac": "00:19:0B:89:7A:13",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Dec-M",
+    "mac": "00:19:0B:89:7A:0C",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "SVSI 2000 Dec-N",
+    "mac": "00:19:0B:89:7A:12",
+    "": ""
+  },
+  {
+    "loc": "Loomis 38",
+    "dev": "AMX NX-4200",
+    "mac": "00:60:9F:A3:22:8B",
+    "": ""
+  },
+  {
+    "loc": "Loomis 38",
+    "dev": "SVSI 2000 ATC-A",
+    "mac": "00:19:0B:8B:52:AE",
+    "": ""
+  },
+  {
+    "loc": "Loomis 38",
+    "dev": "SVSI 2000 ATC-B",
+    "mac": "00:19:0B:8B:52:E5",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "AMX MSD701",
+    "mac": "00:60:9F:A3:CF:62",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "AMX MSD701",
+    "mac": "00:60:9F:A3:CF:68",
+    "": ""
+  },
+  {
+    "loc": "DKH 114",
+    "dev": "SMP 351",
+    "mac": "00:05:a6:11:fa:c6",
+    "": ""
+  },
+  {
+    "loc": "Loomis 141",
+    "dev": "Apple TV",
+    "mac": "c8:69:cd:3a:cc:40",
+    "": ""
+  },
+  {
+    "loc": "Loomis 151",
+    "dev": "Apple TV",
+    "mac": "50:32:37:91:57:7c",
+    "": ""
+  },
+  {
+    "loc": "English 44",
+    "dev": "Apple TV",
+    "mac": "50:32:37:96:60:3c",
+    "": ""
+  },
+  {
+    "loc": "English 69",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:8C",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1109",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:A5",
+    "": ""
+  },
+  {
+    "loc": "English 150",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FB:FB",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 143",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:71",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 445",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:6A",
+    "": ""
+  },
+  {
+    "loc": "Alitgeld 141",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FB:AF",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 145",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:63",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1404",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:70",
+    "": ""
+  },
+  {
+    "loc": "Talbot 225A",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:8D",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 243",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:6B",
+    "": ""
+  },
+  {
+    "loc": "MEB 218",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:90",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 341",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FD:4E",
+    "": ""
+  },
+  {
+    "loc": "Psych 32",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:91",
+    "": ""
+  },
+  {
+    "loc": "Talbot 104",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:7C",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 241",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FB:F6",
+    "": ""
+  },
+  {
+    "loc": "Bevier 89",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:81",
+    "": ""
+  },
+  {
+    "loc": "Psych 207",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:77",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 147",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FC:68",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 447",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:8E",
+    "": ""
+  },
+  {
+    "loc": "Transportation 206",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:4C",
+    "": ""
+  },
+  {
+    "loc": "Education 382",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:FB:EC",
+    "": ""
+  },
+  {
+    "loc": "Psych 11",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:8F",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 441",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:52",
+    "": ""
+  },
+  {
+    "loc": "Altgeld 443",
+    "dev": "Mersive Solstice",
+    "mac": "58:FC:DB:40:EB:8A",
+    "": ""
+  },
+  {
+    "loc": "Bevier 180",
+    "dev": "SMP 351",
+    "mac": "00:05:A6:0F:BA:7B",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1105",
+    "dev": "Extron Switcher",
+    "mac": "00:05:A6:14:EE:4F",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1103",
+    "dev": "Extron Switcher",
+    "mac": "00:05:A6:14:EE:3D",
+    "": ""
+  },
+  {
+    "loc": "Siebel 1111",
+    "dev": "Extron Switcher",
+    "mac": "00:05:A6:14:ED:EC",
+    "": ""
+  },
+  {
+    "loc": "English 307",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00:05:A6:13:54:59",
+    "": ""
+  },
+  {
+    "loc": "English 149",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "00:05:A6:13:12:D7",
+    "": ""
+  },
+  {
+    "loc": "English 29",
+    "dev": "Extron Medialink IP 104+",
+    "mac": "",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B8",
+    "dev": "Extron DMP-64",
+    "mac": "00:05:A6:13:FC:39",
+    "": ""
+  },
+  {
+    "loc": "Engineering Hall 106B8",
+    "dev": "Extron IN1606",
+    "mac": "00:05:a6:13:58:08",
+    "": ""
+  }
+]
