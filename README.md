@@ -1,7 +1,7 @@
 # AV Console README
 
 ## Contents  
-The folder structure is all f'ed up so here's what is actually important:
+The folder structure is all screwed up so here's what is actually important:
 
 ### /usmnet  
 The folder that houses everything important.  The index on this page is not used.  The .ftpconfig file has the details on how I connected Atom to the server.  The usmnet and src folder inside this folder are useless as well.
